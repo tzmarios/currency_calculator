@@ -1,0 +1,16 @@
+#gitignore file for the project
+# Ignore node_modules
+
+node_modules/
+
+# Ignore build files
+build/
+
+# Ignore .env file
+.env
+
+# Ignore .DS_Store file
+.DS_Store
+
+# Ignore .vscode folder
+.vscode/
