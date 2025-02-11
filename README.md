@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Currency Calculator App! This full-stack application allows users to convert currencies using live exchange rates. It features:
+Welcome to the Currency Calculator App! This full-stack application allows users to convert currencies using dynamic exchange rates. It features:
 
 - **Backend**: Built with Node.js and Express.js, interfacing with a MongoDB database.
 - **Frontend**: Developed using React and Vite and styled with Tailwind CSS.
